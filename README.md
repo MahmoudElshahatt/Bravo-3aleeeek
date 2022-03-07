@@ -1,5 +1,5 @@
 
-## Techs
+## Tech stack
 * **Media player**.
 * **VideoView**
 ## Screenshots
